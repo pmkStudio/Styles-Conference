@@ -4,7 +4,7 @@
 
 
 
-I am learning Full Stack development.
+I am learning Full Stack development.<br>
 Here I will post my progress in my studies and projects that I have implemented.
 
 This is my **first** html and css practice project.
